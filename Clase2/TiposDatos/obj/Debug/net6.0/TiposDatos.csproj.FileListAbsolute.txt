@@ -1,0 +1,15 @@
+C:\Repos\IncluitNet\Clase2\TiposDatos\bin\Debug\net6.0\TiposDatos.exe
+C:\Repos\IncluitNet\Clase2\TiposDatos\bin\Debug\net6.0\TiposDatos.deps.json
+C:\Repos\IncluitNet\Clase2\TiposDatos\bin\Debug\net6.0\TiposDatos.runtimeconfig.json
+C:\Repos\IncluitNet\Clase2\TiposDatos\bin\Debug\net6.0\TiposDatos.dll
+C:\Repos\IncluitNet\Clase2\TiposDatos\bin\Debug\net6.0\TiposDatos.pdb
+C:\Repos\IncluitNet\Clase2\TiposDatos\obj\Debug\net6.0\TiposDatos.csproj.AssemblyReference.cache
+C:\Repos\IncluitNet\Clase2\TiposDatos\obj\Debug\net6.0\TiposDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\IncluitNet\Clase2\TiposDatos\obj\Debug\net6.0\TiposDatos.AssemblyInfoInputs.cache
+C:\Repos\IncluitNet\Clase2\TiposDatos\obj\Debug\net6.0\TiposDatos.AssemblyInfo.cs
+C:\Repos\IncluitNet\Clase2\TiposDatos\obj\Debug\net6.0\TiposDatos.csproj.CoreCompileInputs.cache
+C:\Repos\IncluitNet\Clase2\TiposDatos\obj\Debug\net6.0\TiposDatos.dll
+C:\Repos\IncluitNet\Clase2\TiposDatos\obj\Debug\net6.0\refint\TiposDatos.dll
+C:\Repos\IncluitNet\Clase2\TiposDatos\obj\Debug\net6.0\TiposDatos.pdb
+C:\Repos\IncluitNet\Clase2\TiposDatos\obj\Debug\net6.0\TiposDatos.genruntimeconfig.cache
+C:\Repos\IncluitNet\Clase2\TiposDatos\obj\Debug\net6.0\ref\TiposDatos.dll
