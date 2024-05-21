@@ -1,0 +1,15 @@
+C:\repos\IncluitNet\Clase3\bin\Debug\net6.0\Clase3.exe
+C:\repos\IncluitNet\Clase3\bin\Debug\net6.0\Clase3.deps.json
+C:\repos\IncluitNet\Clase3\bin\Debug\net6.0\Clase3.runtimeconfig.json
+C:\repos\IncluitNet\Clase3\bin\Debug\net6.0\Clase3.dll
+C:\repos\IncluitNet\Clase3\bin\Debug\net6.0\Clase3.pdb
+C:\repos\IncluitNet\Clase3\obj\Debug\net6.0\Clase3.csproj.AssemblyReference.cache
+C:\repos\IncluitNet\Clase3\obj\Debug\net6.0\Clase3.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\IncluitNet\Clase3\obj\Debug\net6.0\Clase3.AssemblyInfoInputs.cache
+C:\repos\IncluitNet\Clase3\obj\Debug\net6.0\Clase3.AssemblyInfo.cs
+C:\repos\IncluitNet\Clase3\obj\Debug\net6.0\Clase3.csproj.CoreCompileInputs.cache
+C:\repos\IncluitNet\Clase3\obj\Debug\net6.0\Clase3.dll
+C:\repos\IncluitNet\Clase3\obj\Debug\net6.0\refint\Clase3.dll
+C:\repos\IncluitNet\Clase3\obj\Debug\net6.0\Clase3.pdb
+C:\repos\IncluitNet\Clase3\obj\Debug\net6.0\Clase3.genruntimeconfig.cache
+C:\repos\IncluitNet\Clase3\obj\Debug\net6.0\ref\Clase3.dll
