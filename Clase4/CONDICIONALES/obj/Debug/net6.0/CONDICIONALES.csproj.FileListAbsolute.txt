@@ -1,0 +1,15 @@
+C:\repos\IncluitNet\Clase4\CONDICIONALES\bin\Debug\net6.0\CONDICIONALES.exe
+C:\repos\IncluitNet\Clase4\CONDICIONALES\bin\Debug\net6.0\CONDICIONALES.deps.json
+C:\repos\IncluitNet\Clase4\CONDICIONALES\bin\Debug\net6.0\CONDICIONALES.runtimeconfig.json
+C:\repos\IncluitNet\Clase4\CONDICIONALES\bin\Debug\net6.0\CONDICIONALES.dll
+C:\repos\IncluitNet\Clase4\CONDICIONALES\bin\Debug\net6.0\CONDICIONALES.pdb
+C:\repos\IncluitNet\Clase4\CONDICIONALES\obj\Debug\net6.0\CONDICIONALES.csproj.AssemblyReference.cache
+C:\repos\IncluitNet\Clase4\CONDICIONALES\obj\Debug\net6.0\CONDICIONALES.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\IncluitNet\Clase4\CONDICIONALES\obj\Debug\net6.0\CONDICIONALES.AssemblyInfoInputs.cache
+C:\repos\IncluitNet\Clase4\CONDICIONALES\obj\Debug\net6.0\CONDICIONALES.AssemblyInfo.cs
+C:\repos\IncluitNet\Clase4\CONDICIONALES\obj\Debug\net6.0\CONDICIONALES.csproj.CoreCompileInputs.cache
+C:\repos\IncluitNet\Clase4\CONDICIONALES\obj\Debug\net6.0\CONDICIONALES.dll
+C:\repos\IncluitNet\Clase4\CONDICIONALES\obj\Debug\net6.0\refint\CONDICIONALES.dll
+C:\repos\IncluitNet\Clase4\CONDICIONALES\obj\Debug\net6.0\CONDICIONALES.pdb
+C:\repos\IncluitNet\Clase4\CONDICIONALES\obj\Debug\net6.0\CONDICIONALES.genruntimeconfig.cache
+C:\repos\IncluitNet\Clase4\CONDICIONALES\obj\Debug\net6.0\ref\CONDICIONALES.dll
