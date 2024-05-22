@@ -1,0 +1,15 @@
+C:\repos\IncluitNet\Clase5\Volteretas\bin\Debug\net6.0\Volteretas.exe
+C:\repos\IncluitNet\Clase5\Volteretas\bin\Debug\net6.0\Volteretas.deps.json
+C:\repos\IncluitNet\Clase5\Volteretas\bin\Debug\net6.0\Volteretas.runtimeconfig.json
+C:\repos\IncluitNet\Clase5\Volteretas\bin\Debug\net6.0\Volteretas.dll
+C:\repos\IncluitNet\Clase5\Volteretas\bin\Debug\net6.0\Volteretas.pdb
+C:\repos\IncluitNet\Clase5\Volteretas\obj\Debug\net6.0\Volteretas.csproj.AssemblyReference.cache
+C:\repos\IncluitNet\Clase5\Volteretas\obj\Debug\net6.0\Volteretas.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\IncluitNet\Clase5\Volteretas\obj\Debug\net6.0\Volteretas.AssemblyInfoInputs.cache
+C:\repos\IncluitNet\Clase5\Volteretas\obj\Debug\net6.0\Volteretas.AssemblyInfo.cs
+C:\repos\IncluitNet\Clase5\Volteretas\obj\Debug\net6.0\Volteretas.csproj.CoreCompileInputs.cache
+C:\repos\IncluitNet\Clase5\Volteretas\obj\Debug\net6.0\Volteretas.dll
+C:\repos\IncluitNet\Clase5\Volteretas\obj\Debug\net6.0\refint\Volteretas.dll
+C:\repos\IncluitNet\Clase5\Volteretas\obj\Debug\net6.0\Volteretas.pdb
+C:\repos\IncluitNet\Clase5\Volteretas\obj\Debug\net6.0\Volteretas.genruntimeconfig.cache
+C:\repos\IncluitNet\Clase5\Volteretas\obj\Debug\net6.0\ref\Volteretas.dll
