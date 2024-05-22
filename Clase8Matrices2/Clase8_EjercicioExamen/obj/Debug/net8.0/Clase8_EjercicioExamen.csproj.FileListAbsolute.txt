@@ -1,0 +1,15 @@
+C:\repos2\IncluitNet\Clase8Matrices2\Clase8_EjercicioExamen\bin\Debug\net8.0\Clase8_EjercicioExamen.exe
+C:\repos2\IncluitNet\Clase8Matrices2\Clase8_EjercicioExamen\bin\Debug\net8.0\Clase8_EjercicioExamen.deps.json
+C:\repos2\IncluitNet\Clase8Matrices2\Clase8_EjercicioExamen\bin\Debug\net8.0\Clase8_EjercicioExamen.runtimeconfig.json
+C:\repos2\IncluitNet\Clase8Matrices2\Clase8_EjercicioExamen\bin\Debug\net8.0\Clase8_EjercicioExamen.dll
+C:\repos2\IncluitNet\Clase8Matrices2\Clase8_EjercicioExamen\bin\Debug\net8.0\Clase8_EjercicioExamen.pdb
+C:\repos2\IncluitNet\Clase8Matrices2\Clase8_EjercicioExamen\obj\Debug\net8.0\Clase8_EjercicioExamen.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos2\IncluitNet\Clase8Matrices2\Clase8_EjercicioExamen\obj\Debug\net8.0\Clase8_EjercicioExamen.AssemblyInfoInputs.cache
+C:\repos2\IncluitNet\Clase8Matrices2\Clase8_EjercicioExamen\obj\Debug\net8.0\Clase8_EjercicioExamen.AssemblyInfo.cs
+C:\repos2\IncluitNet\Clase8Matrices2\Clase8_EjercicioExamen\obj\Debug\net8.0\Clase8_EjercicioExamen.csproj.CoreCompileInputs.cache
+C:\repos2\IncluitNet\Clase8Matrices2\Clase8_EjercicioExamen\obj\Debug\net8.0\Clase8_EjercicioExamen.sourcelink.json
+C:\repos2\IncluitNet\Clase8Matrices2\Clase8_EjercicioExamen\obj\Debug\net8.0\Clase8_EjercicioExamen.dll
+C:\repos2\IncluitNet\Clase8Matrices2\Clase8_EjercicioExamen\obj\Debug\net8.0\refint\Clase8_EjercicioExamen.dll
+C:\repos2\IncluitNet\Clase8Matrices2\Clase8_EjercicioExamen\obj\Debug\net8.0\Clase8_EjercicioExamen.pdb
+C:\repos2\IncluitNet\Clase8Matrices2\Clase8_EjercicioExamen\obj\Debug\net8.0\Clase8_EjercicioExamen.genruntimeconfig.cache
+C:\repos2\IncluitNet\Clase8Matrices2\Clase8_EjercicioExamen\obj\Debug\net8.0\ref\Clase8_EjercicioExamen.dll
