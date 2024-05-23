@@ -1,0 +1,15 @@
+C:\repos\IncluitNet\Clase8Matrices2\Clase8EjercicioFinal\bin\Debug\net6.0\Clase8EjercicioFinal.exe
+C:\repos\IncluitNet\Clase8Matrices2\Clase8EjercicioFinal\bin\Debug\net6.0\Clase8EjercicioFinal.deps.json
+C:\repos\IncluitNet\Clase8Matrices2\Clase8EjercicioFinal\bin\Debug\net6.0\Clase8EjercicioFinal.runtimeconfig.json
+C:\repos\IncluitNet\Clase8Matrices2\Clase8EjercicioFinal\bin\Debug\net6.0\Clase8EjercicioFinal.dll
+C:\repos\IncluitNet\Clase8Matrices2\Clase8EjercicioFinal\bin\Debug\net6.0\Clase8EjercicioFinal.pdb
+C:\repos\IncluitNet\Clase8Matrices2\Clase8EjercicioFinal\obj\Debug\net6.0\Clase8EjercicioFinal.csproj.AssemblyReference.cache
+C:\repos\IncluitNet\Clase8Matrices2\Clase8EjercicioFinal\obj\Debug\net6.0\Clase8EjercicioFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\IncluitNet\Clase8Matrices2\Clase8EjercicioFinal\obj\Debug\net6.0\Clase8EjercicioFinal.AssemblyInfoInputs.cache
+C:\repos\IncluitNet\Clase8Matrices2\Clase8EjercicioFinal\obj\Debug\net6.0\Clase8EjercicioFinal.AssemblyInfo.cs
+C:\repos\IncluitNet\Clase8Matrices2\Clase8EjercicioFinal\obj\Debug\net6.0\Clase8EjercicioFinal.csproj.CoreCompileInputs.cache
+C:\repos\IncluitNet\Clase8Matrices2\Clase8EjercicioFinal\obj\Debug\net6.0\Clase8EjercicioFinal.dll
+C:\repos\IncluitNet\Clase8Matrices2\Clase8EjercicioFinal\obj\Debug\net6.0\refint\Clase8EjercicioFinal.dll
+C:\repos\IncluitNet\Clase8Matrices2\Clase8EjercicioFinal\obj\Debug\net6.0\Clase8EjercicioFinal.pdb
+C:\repos\IncluitNet\Clase8Matrices2\Clase8EjercicioFinal\obj\Debug\net6.0\Clase8EjercicioFinal.genruntimeconfig.cache
+C:\repos\IncluitNet\Clase8Matrices2\Clase8EjercicioFinal\obj\Debug\net6.0\ref\Clase8EjercicioFinal.dll
