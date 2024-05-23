@@ -1,0 +1,15 @@
+C:\repos\IncluitNet\Clase8Matrices2\Clase8MatricesNotas\bin\Debug\net6.0\Clase8MatricesNotas.exe
+C:\repos\IncluitNet\Clase8Matrices2\Clase8MatricesNotas\bin\Debug\net6.0\Clase8MatricesNotas.deps.json
+C:\repos\IncluitNet\Clase8Matrices2\Clase8MatricesNotas\bin\Debug\net6.0\Clase8MatricesNotas.runtimeconfig.json
+C:\repos\IncluitNet\Clase8Matrices2\Clase8MatricesNotas\bin\Debug\net6.0\Clase8MatricesNotas.dll
+C:\repos\IncluitNet\Clase8Matrices2\Clase8MatricesNotas\bin\Debug\net6.0\Clase8MatricesNotas.pdb
+C:\repos\IncluitNet\Clase8Matrices2\Clase8MatricesNotas\obj\Debug\net6.0\Clase8MatricesNotas.csproj.AssemblyReference.cache
+C:\repos\IncluitNet\Clase8Matrices2\Clase8MatricesNotas\obj\Debug\net6.0\Clase8MatricesNotas.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\IncluitNet\Clase8Matrices2\Clase8MatricesNotas\obj\Debug\net6.0\Clase8MatricesNotas.AssemblyInfoInputs.cache
+C:\repos\IncluitNet\Clase8Matrices2\Clase8MatricesNotas\obj\Debug\net6.0\Clase8MatricesNotas.AssemblyInfo.cs
+C:\repos\IncluitNet\Clase8Matrices2\Clase8MatricesNotas\obj\Debug\net6.0\Clase8MatricesNotas.csproj.CoreCompileInputs.cache
+C:\repos\IncluitNet\Clase8Matrices2\Clase8MatricesNotas\obj\Debug\net6.0\Clase8MatricesNotas.dll
+C:\repos\IncluitNet\Clase8Matrices2\Clase8MatricesNotas\obj\Debug\net6.0\refint\Clase8MatricesNotas.dll
+C:\repos\IncluitNet\Clase8Matrices2\Clase8MatricesNotas\obj\Debug\net6.0\Clase8MatricesNotas.pdb
+C:\repos\IncluitNet\Clase8Matrices2\Clase8MatricesNotas\obj\Debug\net6.0\Clase8MatricesNotas.genruntimeconfig.cache
+C:\repos\IncluitNet\Clase8Matrices2\Clase8MatricesNotas\obj\Debug\net6.0\ref\Clase8MatricesNotas.dll
