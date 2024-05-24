@@ -1,0 +1,15 @@
+C:\repos\IncluitNet\Clase10\Clase10\bin\Debug\net6.0\Clase10.exe
+C:\repos\IncluitNet\Clase10\Clase10\bin\Debug\net6.0\Clase10.deps.json
+C:\repos\IncluitNet\Clase10\Clase10\bin\Debug\net6.0\Clase10.runtimeconfig.json
+C:\repos\IncluitNet\Clase10\Clase10\bin\Debug\net6.0\Clase10.dll
+C:\repos\IncluitNet\Clase10\Clase10\bin\Debug\net6.0\Clase10.pdb
+C:\repos\IncluitNet\Clase10\Clase10\obj\Debug\net6.0\Clase10.csproj.AssemblyReference.cache
+C:\repos\IncluitNet\Clase10\Clase10\obj\Debug\net6.0\Clase10.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\IncluitNet\Clase10\Clase10\obj\Debug\net6.0\Clase10.AssemblyInfoInputs.cache
+C:\repos\IncluitNet\Clase10\Clase10\obj\Debug\net6.0\Clase10.AssemblyInfo.cs
+C:\repos\IncluitNet\Clase10\Clase10\obj\Debug\net6.0\Clase10.csproj.CoreCompileInputs.cache
+C:\repos\IncluitNet\Clase10\Clase10\obj\Debug\net6.0\Clase10.dll
+C:\repos\IncluitNet\Clase10\Clase10\obj\Debug\net6.0\refint\Clase10.dll
+C:\repos\IncluitNet\Clase10\Clase10\obj\Debug\net6.0\Clase10.pdb
+C:\repos\IncluitNet\Clase10\Clase10\obj\Debug\net6.0\Clase10.genruntimeconfig.cache
+C:\repos\IncluitNet\Clase10\Clase10\obj\Debug\net6.0\ref\Clase10.dll
