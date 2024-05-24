@@ -1,0 +1,15 @@
+C:\repos\IncluitNet\Clase9Matrices3\Clase9Ejercicio1\bin\Debug\net6.0\Clase9Ejercicio1.exe
+C:\repos\IncluitNet\Clase9Matrices3\Clase9Ejercicio1\bin\Debug\net6.0\Clase9Ejercicio1.deps.json
+C:\repos\IncluitNet\Clase9Matrices3\Clase9Ejercicio1\bin\Debug\net6.0\Clase9Ejercicio1.runtimeconfig.json
+C:\repos\IncluitNet\Clase9Matrices3\Clase9Ejercicio1\bin\Debug\net6.0\Clase9Ejercicio1.dll
+C:\repos\IncluitNet\Clase9Matrices3\Clase9Ejercicio1\bin\Debug\net6.0\Clase9Ejercicio1.pdb
+C:\repos\IncluitNet\Clase9Matrices3\Clase9Ejercicio1\obj\Debug\net6.0\Clase9Ejercicio1.csproj.AssemblyReference.cache
+C:\repos\IncluitNet\Clase9Matrices3\Clase9Ejercicio1\obj\Debug\net6.0\Clase9Ejercicio1.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\IncluitNet\Clase9Matrices3\Clase9Ejercicio1\obj\Debug\net6.0\Clase9Ejercicio1.AssemblyInfoInputs.cache
+C:\repos\IncluitNet\Clase9Matrices3\Clase9Ejercicio1\obj\Debug\net6.0\Clase9Ejercicio1.AssemblyInfo.cs
+C:\repos\IncluitNet\Clase9Matrices3\Clase9Ejercicio1\obj\Debug\net6.0\Clase9Ejercicio1.csproj.CoreCompileInputs.cache
+C:\repos\IncluitNet\Clase9Matrices3\Clase9Ejercicio1\obj\Debug\net6.0\Clase9Ejercicio1.dll
+C:\repos\IncluitNet\Clase9Matrices3\Clase9Ejercicio1\obj\Debug\net6.0\refint\Clase9Ejercicio1.dll
+C:\repos\IncluitNet\Clase9Matrices3\Clase9Ejercicio1\obj\Debug\net6.0\Clase9Ejercicio1.pdb
+C:\repos\IncluitNet\Clase9Matrices3\Clase9Ejercicio1\obj\Debug\net6.0\Clase9Ejercicio1.genruntimeconfig.cache
+C:\repos\IncluitNet\Clase9Matrices3\Clase9Ejercicio1\obj\Debug\net6.0\ref\Clase9Ejercicio1.dll
